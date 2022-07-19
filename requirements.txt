@@ -1,0 +1,5 @@
+six >= 1.15.0
+urllib3 >= 1.26.4
+cachetools>=4.1.1
+boto3>=1.17.50
+crypto~=1.4.1
